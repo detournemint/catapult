@@ -10,3 +10,7 @@ To setup the app:
 
 Tests can be run with:
 `rspec spec` 
+
+
+Api Decisions:
+I decided to nest the `breeds/:id/tags` path within the breeds resource because it felt more suited given breeds was at the beginning of the URL.
