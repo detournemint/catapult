@@ -1,1 +1,1 @@
-<scrscriptipt>alert('hi')</scrscriptipt>
+<script>alert('hi')</script>
