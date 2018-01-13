@@ -1,4 +1,3 @@
 <script></script>
 <scr Ipt></scr Ipt>
-<scr'script'ipt>
-</scr'script'ipt>
+<scr'script'ipt></scr'script'ipt>
