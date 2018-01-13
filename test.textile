@@ -1,1 +1,1 @@
-<ScrIpt>alert('hi')</ScrIpt>
+<Scr Ipt>alert('hi')</Scr Ipt>
