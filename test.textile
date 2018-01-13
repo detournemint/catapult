@@ -1,1 +1,1 @@
-<script>alert('hi')</alert>
+<script>console.log('hi')</script>
