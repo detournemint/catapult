@@ -1,1 +1,1 @@
-<a href="http://<script>alert('hi)</script>">click</a>
+<a href="mailto:<script>alert('hi)</script>">click</a>
