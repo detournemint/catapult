@@ -1,3 +1,1 @@
-<script></script>
-<scr Ipt></scr Ipt>
-<scr'script'ipt></scr'script'ipt>
+<a href="http://javascrIpt&#58;alert(1)">click</a>
