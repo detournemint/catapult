@@ -1,1 +1,1 @@
-<script>alert('hi')</script>
+<scr ipt>alert('hi')</scr ipt>
