@@ -1,1 +1,1 @@
-<a href="http://javascrIpt&#58;alert(1)">click</a>
+<a href="http://<script>alert('hi)</script>">click</a>
